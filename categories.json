@@ -6,8 +6,7 @@
         "name": "Filter",
         "classes": [
           "Backgrid.Extension.ServerSideFilter",
-          "Backgrid.Extension.ClientSideFilter",
-          "Backgrid.Extension.LunrFilter"
+          "Backgrid.Extension.ClientSideFilter"
         ]
       }
     ]

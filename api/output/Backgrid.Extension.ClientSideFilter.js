@@ -238,7 +238,6 @@ Ext.data.JsonP.Backgrid_Extension_ClientSideFilter({
     "Backgrid.Extension.ServerSideFilter"
   ],
   "subclasses": [
-    "Backgrid.Extension.LunrFilter"
   ],
   "mixedInto": [
 

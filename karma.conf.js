@@ -20,7 +20,6 @@ module.exports = function(config) {
       'node_modules/backbone/backbone.js',
       'node_modules/backbone.paginator/lib/backbone.paginator.js',
       'node_modules/backgrid/lib/backgrid.js',
-      'node_modules/lunr/lunr.js',
       'backgrid-filter.js',
       'test/filter.js'
     ],
